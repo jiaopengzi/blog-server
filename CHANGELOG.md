@@ -5,6 +5,12 @@
 该格式基于 [Keep a Changelog](https://keepachangelog.com),
 本项目遵循 [语义化版本控制](https://semver.org/spec/v2.0.0.html)。
 
+## [0.2.2-beta] - 2025-11-21
+
+### Add
+
+- cli 注册官员 用户密码重置
+
 ## [0.2.1-beta] - 2025-11-21
 
 ### Add
