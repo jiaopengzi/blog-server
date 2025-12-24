@@ -5,6 +5,12 @@
 该格式基于 [Keep a Changelog](https://keepachangelog.com),
 本项目遵循 [语义化版本控制](https://semver.org/spec/v2.0.0.html)。
 
+## [0.4.4] - 2025-12-24
+
+### Add
+
+- 镜像添加 CA 证书
+
 ## [0.4.3] - 2025-12-24
 
 ### Fix
