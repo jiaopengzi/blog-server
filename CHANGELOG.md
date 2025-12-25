@@ -5,6 +5,12 @@
 该格式基于 [Keep a Changelog](https://keepachangelog.com),
 本项目遵循 [语义化版本控制](https://semver.org/spec/v2.0.0.html)。
 
+## [0.4.5] - 2025-12-25
+
+### Fix
+
+- 消费者逻辑修复
+
 ## [0.4.4] - 2025-12-24
 
 ### Add
