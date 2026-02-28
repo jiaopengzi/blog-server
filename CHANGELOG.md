@@ -5,6 +5,24 @@
 该格式基于 [Keep a Changelog](https://keepachangelog.com),
 本项目遵循 [语义化版本控制](https://semver.org/spec/v2.0.0.html)。
 
+## [v0.7.2] - 2026-02-28
+
+### Test
+
+- build test Ubuntu
+
+## [v0.7.1] - 2026-02-21
+
+### Fix
+
+- lint 修复
+
+## [v0.7.0] - 2026-02-21
+
+### Feat
+
+- 里程碑计费中心完成
+
 ## [v0.6.1] - 2026-02-11
 
 ### Fix
