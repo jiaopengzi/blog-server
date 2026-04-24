@@ -193,6 +193,26 @@ docker run -d \
 - 服务在收到 `SIGINT` 或 `SIGTERM` 时会尝试优雅关闭.
 - PostgreSQL 与 Redis 连接会在关闭流程中被回收.
 
+## ES 索引重建
+
+当 Elasticsearch mapping 发生变更, 或需要按当前数据库数据回填索引时, 可以直接使用主程序内置的重建命令.
+
+单索引重建:
+
+```bash
+./blog-server rebuild-es post
+```
+
+全量重建:
+
+```bash
+./blog-server rebuild-es all
+```
+
+`rebuild-es all` 会串行删除并重建全部受支持的 ES 索引, 然后按批次回填历史数据. 这是破坏性操作, 执行前应确认当前环境允许重建索引.
+
+完整支持的表名可通过 `./blog-server rebuild-es --help` 查看.
+
 ## API 文档
 
 接口文档位于 `docs/swagger.json`.
