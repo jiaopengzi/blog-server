@@ -2,6 +2,12 @@
 
 一个面向内部部署的闭源博客服务端产品. 本项目以二进制分发为主, 运行时围绕发布包中的 `blog-server`, `boot`, `config/`, `templates/` 与 `docs/` 组织, 不面向外部开源协作.
 
+## 实际项目
+
+效果展示：[https://jiaopengzi.com](https://jiaopengzi.com)
+
+### [🚀点击我！体验在线编辑器](https://jiaopengzi.com/md)
+
 ## 快速开始
 
 请参考 [blog-tool](https://github.com/jiaopengzi/blog-tool) 部署服务.
