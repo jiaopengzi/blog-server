@@ -5,6 +5,17 @@
 该格式基于 [Keep a Changelog](https://keepachangelog.com),
 本项目遵循 [语义化版本控制](https://semver.org/spec/v2.0.0.html)。
 
+## [v1.1.0] - 2026-09-04
+
+### ✅ Feat
+
+- 增加了 PV UV 文章浏览量的统计
+
+### 💥 boom
+
+- sitemap 配合前端 ssr 改造
+- config 中 app.yaml 和 redis.yaml 配置项有更新，从 `v1.0.1` 不向下兼容
+
 ## [v1.0.1] - 2026-08-12
 
 ### ✅ Test
