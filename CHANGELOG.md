@@ -11,6 +11,10 @@
 
 - 增加了 PV UV 文章浏览量的统计
 
+### Fix
+
+- 信任代理网段列表使用 blog-tool 中自定义的 docker 网段
+
 ### 💥 boom
 
 - sitemap 配合前端 ssr 改造
