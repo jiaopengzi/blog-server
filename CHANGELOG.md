@@ -5,7 +5,7 @@
 该格式基于 [Keep a Changelog](https://keepachangelog.com),
 本项目遵循 [语义化版本控制](https://semver.org/spec/v2.0.0.html)。
 
-## [v1.1.1] - 2026-09-16
+## [v1.1.1] - 2026-09-18
 
 ### 📦 Build
 
@@ -14,6 +14,7 @@
 ### Fix
 
 - 文章浏览量日期维度统计修正
+- docker logs blog-server 中出现预期外的日志
 
 ## [v1.1.0] - 2026-09-04
 
