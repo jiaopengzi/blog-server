@@ -5,7 +5,7 @@
 该格式基于 [Keep a Changelog](https://keepachangelog.com),
 本项目遵循 [语义化版本控制](https://semver.org/spec/v2.0.0.html)。
 
-## [v1.1.1] - 2026-09-19
+## [v1.1.1] - 2026-09-20
 
 ### 📦 Build
 
@@ -17,6 +17,7 @@
 - docker logs blog-server 中出现预期外的日志
 - 单设备登录与同浏览器多个多标签同时兼容满足
 - 统一为前端的 URL 转义
+- 分类和标签文章列表匹配不到返回空数据，不走全量文章兜底
 
 ## [v1.1.0] - 2026-09-04
 
