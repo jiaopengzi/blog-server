@@ -10,7 +10,8 @@
 
 ## 快速开始
 
-请参考 [blog-tool](https://github.com/jiaopengzi/blog-tool) 部署服务.
+- [部署文档](https://jiaopengzi.com/p/7691892531658753)
+- [系列部署视频教程](https://www.bilibili.com/video/BV1Rkuw69EyS)
 
 ## 产品定位
 
